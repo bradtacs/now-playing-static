@@ -200,9 +200,17 @@ figure {
   .site-nav {
     position: fixed;
     left: 0px;
-    width: 80px;
+    width: 90px;
     height: 100%;
     background-color: red;
 
   }
+  .movie {
+     margin-left: 90px;
+  }
+
+  .site-logo {
+    margin-left:90px;
+  }
+
 }
