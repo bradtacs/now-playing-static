@@ -192,5 +192,11 @@ figure {
     width: 80px;
     height: 100%;
   }
+  .movie {
+    margin-left: 80px;
+  }
+  .site-logo {
+    margin-left: 80px;
+  }
 }
 }
