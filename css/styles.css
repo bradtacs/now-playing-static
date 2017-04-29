@@ -188,15 +188,17 @@ figure {
 }
 
 @media (min-width:768px) {
+
+  .movie {
+    margin-left: 80px;
+  }
   .site-nav {
     position: fixed;
     left: 0px;
     width: 80px;
     height: 100%;
   }
-  .movie {
-    margin-left: 80px;
-  }
+
   .site-logo {
     margin-left: 80px;
   }
@@ -206,6 +208,9 @@ figure {
 
 @media (min-width:992px) {
 
+  .mov {
+    margin-left: 80px;
+  }
 
   .movie {
      width: 33%;
@@ -213,10 +218,13 @@ figure {
     margin-left: 0px;
     float: left;
   }
+  /* FOOTER styles */
 
-  .movie
-    .site-logo {
-    margin-left: 80px;
+
+  .footer-nav-item {
+    padding-top: 30px;
+    display: inline-block;
+    margin-right: 0.5em;
   }
 
 }
