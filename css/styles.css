@@ -203,23 +203,26 @@ figure {
     margin-left: 80px;
   }
 
+  site-nav-item-label{
+    text-align: center;
+    margin: auto;
+  }
 }
 
 
 @media (min-width:992px) {
 
-  .mov {
+  main {
     margin-left: 80px;
   }
 
   .movie {
-     width: 33%;
+   width: 33%;
     display: block;
     margin-left: 0px;
     float: left;
   }
   /* FOOTER styles */
-
 
   .footer-nav-item {
     padding-top: 30px;
