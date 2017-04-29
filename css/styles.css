@@ -207,6 +207,14 @@ figure {
     text-align: center;
     margin: auto;
   }
+
+  li.site-nav-item{
+    position: relative;
+    top: 10px;
+    left: 5px;
+    width: 90%;
+  }
+
 }
 
 
@@ -217,7 +225,7 @@ figure {
   }
 
   .movie {
-   width: 33%;
+    width: 33%;
     display: block;
     margin-left: 0px;
     float: left;
@@ -229,5 +237,10 @@ figure {
     display: inline-block;
     margin-right: 0.5em;
   }
-
+  /*  .feature-wide {
+     width: 100%;
+     display: block;
+     margin-left: 0px;
+     float: left;
+   } */
 }
