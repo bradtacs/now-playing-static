@@ -203,11 +203,6 @@ figure {
     margin-left: 80px;
   }
 
-  site-nav-item-label{
-    text-align: center;
-    margin: auto;
-  }
-
   li.site-nav-item{
     position: relative;
     top: 12px;
