@@ -210,8 +210,8 @@ figure {
 
   li.site-nav-item{
     position: relative;
-    top: 10px;
-    left: 5px;
+    top: 12px;
+    left: 4px;
     width: 90%;
   }
 
@@ -233,9 +233,8 @@ figure {
   /* FOOTER styles */
 
   .footer-nav-item {
-    padding-top: 30px;
-    display: inline-block;
-    margin-right: 0.5em;
+    padding-top: 25px;
+
   }
   /*  .feature-wide {
      width: 100%;
