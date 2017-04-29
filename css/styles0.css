@@ -184,13 +184,3 @@ figure {
 .footer-nav-item:last-child {
   margin-right: 0;
 }
-
-@media (min-width:768px) {
-  .site-nav {
-    position: fixed;
-    left: 0px;
-    width: 80px;
-    height: 100%;
-  }
-}
-}
