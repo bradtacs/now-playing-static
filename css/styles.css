@@ -1,5 +1,7 @@
 /* BASE styles */
 
+/* BASE styles */
+
 html {
   box-sizing: border-box;
   font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -198,5 +200,23 @@ figure {
   .site-logo {
     margin-left: 80px;
   }
+
 }
+
+
+@media (min-width:992px) {
+
+
+  .movie {
+     width: 33%;
+    display: block;
+    margin-left: 0px;
+    float: left;
+  }
+
+  .movie
+    .site-logo {
+    margin-left: 80px;
+  }
+
 }
